@@ -1,3 +1,3 @@
 # Regression
-This repository is based on different regression algorithms and it makes use of them and then ouput a r2 score of them!\
+This repository consists of different regression models that I have built and then ouputs a r2 score for all the models!\
 Note: Please install scikit-learn, numpy and pandas to run the python files!
